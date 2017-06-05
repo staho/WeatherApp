@@ -9,4 +9,5 @@
     <string name="velocity">Prędkość: </string>
     <string name="direction">Kierunek: </string>
     <string name="pressure">Ciśnienie: </string>
+    <string name="city">Miasto: </string>
 </resources>
